@@ -1,0 +1,6 @@
+BOT AUTORIZATION TOKEN :
+397151115:AAH61PJfWhkl9tjnW7hVWG_mIdg_HkC9S6o
+
+Link :
+https://api.telegram.org/397151115:AAH61PJfWhkl9tjnW7hVWG_mIdg_HkC9S6o/getMe
+

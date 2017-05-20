@@ -1,0 +1,10 @@
+Workspace Details
+
+Workspace name
+BluemixBot
+
+Workspace ID
+f42d6e26-ad43-4d5f-9927-4bee37716e9f
+
+Workspace URL
+https://gateway.watsonplatform.net/conversation/api/v1/workspaces/f42d6e26-ad43-4d5f-9927-4bee37716e9f/message/
